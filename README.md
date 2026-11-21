@@ -1,16 +1,20 @@
-## Hi there 👋
+# مرحباً، أنا أحمد 👋
 
-<!--
-**aahmd94qw-sketch/aahmd94qw-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 [مهنتك]
+أبني حلولاً برمجية بشغف، وأحب تعلّم كل ما هو جديد.
 
-Here are some ideas to get you started:
+## 🛠️ المهارات
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 مشاريعي المفضلة
+- **[اسم المشروع 1](رابط)** — وصف قصير
+- **[اسم المشروع 2](رابط)** — وصف قصير
+
+## 📫 تواصل معي
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](رابط)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](رابط)
+
+## 📊 إحصائيات GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=aahmd94qw-sketch&show_icons=true)
