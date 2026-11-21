@@ -15,5 +15,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📫 تواصل معي
-- 📱 واتساب:+.
-+963 932 653 801
+- 📱 واتساب: [+963932653801](https://wa.me/963932653801)
